@@ -1,7 +1,7 @@
 # VK_Bot-Загрузка
 Этот бот создает анимацию загрузки в чате ВК
 
-![lv_0_20230327202119 (1)](https://user-images.githubusercontent.com/128917932/227969358-527f6187-60a7-4775-818f-e6d72d648893.gif)
+![lv_0_20230327202119 (1) (1)](https://user-images.githubusercontent.com/128917932/227970051-c39ab46d-1182-4529-b31c-5a43d1e6bff2.gif)
 
 Инструкция:
 
